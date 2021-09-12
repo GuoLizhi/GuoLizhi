@@ -1,6 +1,6 @@
 ## Abount Me
 
-- 360 front end developer
+- Alibaba front end developer
 - Foucus at JavaScript & Go
 
 ## Github Intro
