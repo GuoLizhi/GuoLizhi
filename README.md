@@ -1,7 +1,7 @@
 ## Abount Me
 
 - Alibaba front end developer
-- Foucus at JavaScript & Go
+- Foucus at JavaScript
 
 ## Github Intro
 
