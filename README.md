@@ -1,6 +1,6 @@
 ## Abount Me
 
-- A Web3 full-stack developer, contact me on lizhi.guo@foxmail.com
+- A Web3 full-stack developer, contact me at lizhi.guo@foxmail.com
 - Foucus at JavaScript and Golang
 
 ## Github Intro
